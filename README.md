@@ -3,6 +3,9 @@
 - json_navigator.py: A simple script to navigate json files to help you understand the structure.
 - visualization_local.py: A simple script to using graphviz to visualize json files.
 
+If you encounter an issue please let me know, and attach the relevant files or information so I can recreate the bug.
+Feel free to make pull requests!
+
 ## Board Transposer
 
 ### Completed
